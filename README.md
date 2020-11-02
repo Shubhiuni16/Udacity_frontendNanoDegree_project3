@@ -15,4 +15,4 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ### After entering the file directory in terminal run 'node server.js' command. This will initiate port 8000. On opening localport:8000 in browser user will be able to view the project.
 
-Currently it takes zip code of India provision only. So, execute accordingly.
+Currently it takes zip code of India provision only.
